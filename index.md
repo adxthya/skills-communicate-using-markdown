@@ -7,3 +7,7 @@ I just learned how to create heading in markdown. Currently I added two heading 
 ``` javascript
 console.log("Hello World!");
 ```
+## Tasks
+- [ ] Code a React Native app
+- [ ] Create an automation script using selenium
+- [ ] Learn Linux commands
